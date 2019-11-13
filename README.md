@@ -185,3 +185,5 @@ servers will ignore them.
 
 3) No support for monetization profiles. To enable monetization, build the planet
 using Ansible then manually apply the `mo` profile to appropriate nodes.
+
+4) No support for Flask API. 
